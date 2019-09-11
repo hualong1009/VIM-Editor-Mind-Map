@@ -316,4 +316,11 @@ ESC 退出插入模式
 
 ### vim -On fn1 fn2 ... 左右分屏打开多个文件
 
-*XMind: ZEN - Trial Version*
+
+
+**推荐关注博主公众号，获取最新的文章😀，顺便点个“在看”呗**
+
+[![服务器测试与运维](https://i.loli.net/2019/09/11/qBRQ5IUL7SyusGV.png)](https://i.loli.net/2019/09/11/qBRQ5IUL7SyusGV.png)
+
+
+>   📌转载请注明来源，版权归作者**[@hualong1009](https://hualong1009.github.io)**所有, 谢谢
